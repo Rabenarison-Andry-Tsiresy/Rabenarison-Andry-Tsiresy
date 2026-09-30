@@ -213,19 +213,6 @@ I'm currently developing my cybersecurity knowledge with an interest in understa
 * Map-based data visualization
 * Geographic data management
 
----
-
-# 📊 Mathematics & Technical Computing
-
-### Academic / Technical Tools
-
-* Matrix operations
-* Algorithmic problem solving
-* Mathematical computing
-* Maxima
-* Data structures
-* Basic algorithm analysis
-* Logical problem solving
 
 ---
 
