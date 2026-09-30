@@ -2,7 +2,7 @@
 
 ### 💻 Software Developer | Computer Science Student | Tech Enthusiast
 
-I'm an L2 Computer Science student from Madagascar interested in software development, backend engineering, databases, networking, cybersecurity and technology.
+I'm an L3 Computer Science student from Madagascar interested in software development, backend engineering, databases, networking, cybersecurity and technology.
 
 I like understanding how systems work from the application layer down to databases, operating systems and networks. I also enjoy building practical projects and experimenting with different technologies.
 
